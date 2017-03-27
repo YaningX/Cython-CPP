@@ -1,5 +1,5 @@
 # Cython-CPP
-Sample code that shows how to interface c++ class with Python
+Simple Cython code that shows how to interface c++ class with Python
 
 ## How to run
 ```
